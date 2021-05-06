@@ -4,5 +4,8 @@ class Simple{
         System.out.println("Hello Java");  
 	System.out.println("Hello India");
  	System.out.println("Hello World");
+	System.out.println("Hello PHP");
+	System.out.println("Hello JSP");
+	System.out.println("Hello .Net");
     }  
 }  
